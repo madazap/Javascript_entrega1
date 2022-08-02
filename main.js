@@ -25,9 +25,6 @@ for(let i=0; i<arreglo_cadena.length; i++){
     cadena_final.push(100);
   }
 
-  else{
-    cadena_final.push(NaN);
-  }
 }
 console.log(cadena_final);
 
